@@ -3,7 +3,6 @@
 
 <img align="right" alt="coding" width="400" src="https://devmaster.edu.vn/uploads/images/chia-se-kien-thuc/ezgif_com-resize%20(1).gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yagnikjasoliya01&label=Profile%20views&color=0e75b6&style=flat" alt="yagnikjasoliya01" /> </p>
 
 - 🌱 I’m currently learning **Data Structures And Algorithms**
@@ -23,6 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yagnikjasoliya01&show_icons=true&locale=en&layout=compact" alt="yagnikjasoliya01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yagnikjasoliya01&show_icons=true&locale=en" alt="yagnikjasoliya01" /></p>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yagnikjasoliya01&" alt="yagnikjasoliya01" /></p>
