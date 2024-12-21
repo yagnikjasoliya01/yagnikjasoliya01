@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yagnikjasoliya01&label=Profile%20views&color=0e75b6&style=flat" alt="yagnikjasoliya01" /> </p>
 
-- 🔭 I’m currently Studying Computer Science **ML/Al**
+- 🔭 I’m currently Studying Computer Science **Al/ML**
 
 - 🌱 I’m currently learning **MERN Stack**
 
