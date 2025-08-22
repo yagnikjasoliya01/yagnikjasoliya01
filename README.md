@@ -5,8 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yagnikjasoliya01&label=Profile%20views&color=0e75b6&style=flat" alt="yagnikjasoliya01" /> </p>
 
-- 🌱 I’m currently learning **Al/ML**
-
+- 🌱 I’m currently learning **Django REST Framework & Machine Learning**  
+- 💡 Interested in **building AI-powered web applications**
 - 📫 How to reach me **yagnikjasoliya65@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
