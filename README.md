@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently Studying Computer Science **Al/ML**
 
-- 🌱 I’m currently learning **MERN Stack**
-
 - 📫 How to reach me **yagnikjasoliya65@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
